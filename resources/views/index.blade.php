@@ -78,8 +78,8 @@
         <section id = "featured" class = "py-4">
             <div class = "container">
                 <div class = "title-wrap">
-                    <span class = "sm-title">know about some places before your travel</span>
-                    <h2 class = "lg-title">featured places</h2>
+                    <span class = "sm-title">Знай че-нибудь о местах куда поедешь заранее, не будь как тупой кацап</span>
+                    <h2 class = "lg-title">Места, блять</h2>
                 </div>
 
                 <div class = "featured-row">
