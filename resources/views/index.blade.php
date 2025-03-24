@@ -219,8 +219,8 @@
                         <div class = "test-item-info">
                             <img src = "images/test-1.jpg" alt = "testimonial">
                             <div>
-                                <h3>Kevin Wilson</h3>
-                                <p class = "text">Trip to Brazil</p>
+                                <h3>Хвича Кварацхелия</h3>
+                                <p class = "text">Сгонял в Бразилию и научился играть в футбол</p>
                             </div>
                         </div>
                     </div>
@@ -230,8 +230,8 @@
                         <div class = "test-item-info">
                             <img src = "images/test-2.jpg" alt = "testimonial">
                             <div>
-                                <h3>Ben Davis</h3>
-                                <p class = "text">Trip to Maldives</p>
+                                <h3>Рафинья</h3>
+                                <p class = "text">Сгонял в Таиланд, трахнул фембойчика и зарядился на сезон</p>
                             </div>
                         </div>
                     </div>
@@ -241,8 +241,8 @@
                         <div class = "test-item-info">
                             <img src = "images/test-3.jpg" alt = "testimonial">
                             <div>
-                                <h3>Jaura Jones</h3>
-                                <p class = "text">Trip to Thailand</p>
+                                <h3>Мераб Двалишвили</h3>
+                                <p class = "text">Сгонял в Рим, поучавствовал в гладиаторских боях и ебет в юфс</p>
                             </div>
                         </div>
                     </div>
@@ -251,18 +251,7 @@
         </section>
         <!-- end of testimonials section -->
 
-        <!-- video section -->
-        <section id = "video">
-            <div class = "video-wrapper flex">
-                <video loop>
-                    <source src = "videos/video-section.mp4" type = "video/mp4">
-                </video>
-                <button type = "button" id = "play-btn">
-                    <i class = "fas fa-play"></i>
-                </button>
-            </div>
-        </section>
-        <!-- end of video section -->
+
 
         <!-- footer -->
         <footer class = "py-4">
