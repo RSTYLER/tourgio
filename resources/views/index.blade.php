@@ -64,10 +64,8 @@
                 <div class = "header-form">
                     <h2>Куда едешь мразь:</h2>
                     <form class = "flex">
-                        <input type = "text" class = "form-control" placeholder="В ГОРОД КАКОЙ, ЕБЛАН?">
-                        <input type="date" class = "form-control" placeholder="Дату укажи блять">
-                        <input type="number" class = "form-control" placeholder="Столько денег надо">
-                        <input type="submit" class = "btn" value = "Ищи, сука">
+			<div class="tv-search-form tv-moduleid-9970237"></div>
+			<script type="text/javascript" src="//tourvisor.ru/module/init.js"></script>
                     </form>
                 </div>
             </div>
