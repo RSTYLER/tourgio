@@ -62,12 +62,10 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus rerum maxime enim odit illum in molestias beatae doloremque, ratione optio.</p>
                 </div>
                 <div class = "header-form">
-                    <h2>Куда едешь мразь:</h2>
+                    <h2>Куда едете:</h2>
                     <form class = "flex">
-                        <input type = "text" class = "form-control" placeholder="В ГОРОД КАКОЙ, ЕБЛАН?">
-                        <input type="date" class = "form-control" placeholder="Дату укажи блять">
-                        <input type="number" class = "form-control" placeholder="Столько денег надо">
-                        <input type="submit" class = "btn" value = "Ищи, сука">
+			<div class="tv-search-form tv-moduleid-9970237"></div>
+			<script type="text/javascript" src="//tourvisor.ru/module/init.js"></script>
                     </form>
                 </div>
             </div>
@@ -78,8 +76,8 @@
         <section id = "featured" class = "py-4">
             <div class = "container">
                 <div class = "title-wrap">
-                    <span class = "sm-title">Знай че-нибудь о местах куда поедешь заранее, не будь как тупой кацап</span>
-                    <h2 class = "lg-title">Места, блять</h2>
+                    <span class = "sm-title">Узнай больше о местах:</span>
+                    <h2 class = "lg-title">Места</h2>
                 </div>
 
                 <div class = "featured-row">
@@ -169,8 +167,8 @@
         <section id = "services" class = "py-4">
             <div class = "container">
                 <div class = "title-wrap">
-                    <span class = "sm-title">Ахуенчики</span>
-                    <h2 class = "lg-title">Наши ахуенный предложения</h2>
+                    <span class = "sm-title">Предложения</span>
+                    <h2 class = "lg-title">Наши предложения</h2>
                 </div>
 
                 <div class = "services-row">
@@ -178,7 +176,7 @@
                         <span class = "services-icon">
                             <i class = "fas fa-hotel"></i>
                         </span>
-                        <h3>Ахуенные Отели</h3>
+                        <h3>Отели</h3>
                         <p class = "text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem quo, totam repellat velit, dignissimos sequi error a minima architecto fugit nisi dolorum repellendus?</p>
                         <a href = "#" class = "btn">Подробнее</a>
                     </div>
@@ -187,7 +185,7 @@
                         <span class = "services-icon">
                             <i class = "fas fa-map-marked-alt"></i>
                         </span>
-                        <h3>Ахуенный Гид</h3>
+                        <h3>Лучший Гид</h3>
                         <p class = "text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem quo, totam repellat velit, dignissimos sequi error a minima architecto fugit nisi dolorum repellendus?</p>
                         <a href = "#" class = "btn">Подробнее</a>
                     </div>
@@ -196,7 +194,7 @@
                         <span class = "services-icon">
                             <i class = "fas fa-money-bill"></i>
                         </span>
-                        <h3>Ахуенные цены</h3>
+                        <h3>Отличные цены</h3>
                         <p class = "text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem quo, totam repellat velit, dignissimos sequi error a minima architecto fugit nisi dolorum repellendus?</p>
                         <a href = "#" class = "btn">Подробнее</a>
                     </div>
@@ -209,7 +207,7 @@
         <section id = "testimonials" class = "py-4">
             <div class = "container">
                 <div class = "title-wrap">
-                    <span class = "sm-title">Че о нас говорят клиенты</span>
+                    <span class = "sm-title">Что о нас говорят клиенты</span>
                     <h2 class = "lg-title">Клиенты</h2>
                 </div>
 
@@ -220,7 +218,7 @@
                             <img src = "images/test-1.jpg" alt = "testimonial">
                             <div>
                                 <h3>Хвича Кварацхелия</h3>
-                                <p class = "text">Сгонял в Бразилию и научился играть в футбол</p>
+                                <p class = "text"Съездил в Бразилию и научился играть в футбол</p>
                             </div>
                         </div>
                     </div>
@@ -231,7 +229,7 @@
                             <img src = "images/test-2.jpg" alt = "testimonial">
                             <div>
                                 <h3>Рафинья</h3>
-                                <p class = "text">Сгонял в Таиланд, трахнул фембойчика и зарядился на сезон</p>
+                                <p class = "text">Сгонял в Таиланд, и зарядился на сезон</p>
                             </div>
                         </div>
                     </div>
@@ -242,7 +240,7 @@
                             <img src = "images/test-3.jpg" alt = "testimonial">
                             <div>
                                 <h3>Мераб Двалишвили</h3>
-                                <p class = "text">Сгонял в Рим, поучавствовал в гладиаторских боях и ебет в юфс</p>
+                                <p class = "text">Сгонял в Рим, поучавствовал в гладиаторских боях</p>
                             </div>
                         </div>
                     </div>
@@ -300,13 +298,12 @@
                         <li><a href = "#">Зугдиди</a></li>
                         <li><a href = "#">Гали</a></li>
                         <li><a href = "#">Чебоксары</a></li>
-                        <li><a href = "#">Пизда Анны</a></li>
                         <li><a href = "#">Барселона</a></li>
                     </ul>
                 </div>
 
                 <div class = "subscribe-form footer-item">
-                    <h2>Подпишись чтобы знать что ты еблан!</h2>
+                    <h2>Подпишись чтобы не упускать важную информацию!</h2>
                     <form class = "flex">
                         <input type = "email" placeholder="Мыло" class = "form-control">
                         <input type = "submit" class = "btn" value = "Подписаться">
